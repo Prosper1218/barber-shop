@@ -1,0 +1,33 @@
+.Gridd {
+	/* width: 100%; */
+    width: auto ;
+    /* width: 89.50%; */
+	padding-left: 5rem;
+	padding-right: 5rem;
+    padding-top: 3rem;
+	justify-content: center;
+    /* border: 2px solid red; */
+    gap: 2rem;
+}
+
+#miconn {
+	width: 3.5rem;
+	height: 3.5rem;
+
+	/* background-color: transparent; */
+}
+#horiline{
+	border: 0px;
+	outline: 0px;
+	background-color: #b28449;
+	height: 1px;
+	margin-left: 0.6rem;
+	margin-right: 0.6rem;
+}
+
+@media screen and (max-width: 1200px) {
+	.Gridd {
+		padding-left: 2rem;
+		padding-right: 2rem;
+	}
+}

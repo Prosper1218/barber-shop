@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+
+
+
+#BGTEXT{
+    /* font-family: 'Anton', sans-serif !important; */
+    font-family: 'Josefin Sans', cursive;
+}
+#seginfotitle{
+    font-family: 'Josefin Sans', cursive;
+
+}
+#seginfoText{
+    font-family: 'Josefin Sans', cursive;
+}
+
+#gridc{
+	font-family: 'Josefin Sans', cursive !important; 
+}
+#servicec{
+	font-family: 'Josefin Sans', cursive !important; 
+
+}
+#shopc{
+	font-family: 'Josefin Sans', cursive !important; 
+
+}
+
+#ppbg {
+	font-family: "Josefin Sans", cursive !important;
+	background-image: url("./imgs/darkbg.jpeg");
+}
