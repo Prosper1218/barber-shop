@@ -324,11 +324,37 @@
 	/* display: none; */
 }
 
-/* #footercaro:hover #footercarotext {
-	display: block;
-	opacity: 1;
-	z-index: 2;
-} */
 #footercaro:hover {
 	opacity: 0.3 !important;
 }
+
+
+
+#BGTEXT{
+	/* font-family: 'Anton', sans-serif !important; */
+	font-family: 'Josefin Sans', cursive;
+ }
+ #seginfotitle{
+	font-family: 'Josefin Sans', cursive;
+ 
+ }
+ #seginfoText{
+	font-family: 'Josefin Sans', cursive;
+ }
+ 
+ #gridc{
+	 font-family: 'Josefin Sans', cursive !important; 
+ }
+ #servicec{
+	 font-family: 'Josefin Sans', cursive !important; 
+ 
+ }
+ #shopc{
+	 font-family: 'Josefin Sans', cursive !important; 
+ 
+ }
+ 
+ #ppbg {
+	 font-family: "Josefin Sans", cursive !important;
+	 background-image: url("./imgs/darkbg.jpeg");
+ }

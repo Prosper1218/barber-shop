@@ -1,6 +1,5 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import "./Index.css";
 import Background from './assets/Background/Background'
 import NavigationBar from './assets/NavBar/NavigationBar'
 import MainAbout from './assets/About/MainAbout'
