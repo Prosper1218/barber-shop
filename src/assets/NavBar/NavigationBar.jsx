@@ -3,7 +3,6 @@ import './Nav.css';
 import { useState } from "react";
 import { Menu, Title, createStyles, } from '@mantine/core';
 import { Link } from "react-router-dom";
-import User from '../../imgs/User.png'
 import logo1 from '../../imgs/logo1.png'
 import { motion } from "framer-motion";
 
